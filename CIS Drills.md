@@ -837,3 +837,186 @@
 20. **Q**: What is the purpose of a hash function in encryption?  
     **A**: To verify data integrity.
 
+
+# **Module V: Security Risk Management and Standards**
+
+---
+
+#### **1. Introduction to Security Risk Management**
+- **Definition**: The process of identifying, assessing, and mitigating risks to ensure system security.  
+- **Risk Assessment**:
+  - Steps: 
+    1. Identify threats and vulnerabilities.  
+    2. Determine impact and likelihood.  
+    3. Develop mitigation strategies.  
+  - Tools: Risk matrices, quantitative analysis.
+
+---
+
+#### **2. Security Assurance Approaches**
+- **OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation)**:
+  - Focus: Organizational risk-based security practices.
+  - Phases:
+    1. Identify assets and threats.  
+    2. Assess vulnerabilities.  
+    3. Develop protection strategies.
+- **COBIT (Control Objectives for Information and Related Technologies)**:
+  - Framework for IT governance and management.
+  - Components:
+    - Align IT goals with business objectives.
+    - Manage risks and ensure compliance.
+
+---
+
+#### **3. Security Management of IT Systems**
+- **Network Security Management**:
+  - Includes monitoring, configuring, and maintaining network components.
+  - Tools: Network Access Control (NAC), encryption protocols.
+- **Firewalls**:
+  - Function: Blocks unauthorized access while permitting authorized communication.
+  - Types: Packet-filtering, proxy-based, stateful inspection.
+- **Intrusion Detection Systems (IDS)**:
+  - Identifies potential security breaches.
+  - Types: Network-based, host-based.
+- **Intrusion Prevention Systems (IPS)**:
+  - Monitors network traffic and actively blocks threats.
+
+---
+
+#### **4. Web and Wireless Security Management**
+- **Web Security**:
+  - Techniques: HTTPS, Content Security Policy (CSP), vulnerability scanning.
+  - Risks: Cross-site scripting (XSS), SQL injection.
+- **Wireless Security**:
+  - Techniques: WPA3 encryption, MAC address filtering, VPNs.
+  - Risks: Eavesdropping, rogue access points.
+
+---
+
+#### **5. Security Models**
+- **Access Control Models**:
+  - **Discretionary Access Control (DAC)**: Access based on user identity.
+  - **Mandatory Access Control (MAC)**: Access determined by system policies.
+- **Role-Based Access Control (RBAC)**:
+  - Access granted based on roles assigned to users.
+- **Lattice Models**:
+  - Based on mathematical frameworks to enforce access policies.
+
+---
+
+#### **6. Computer Security Log Management**
+- **Definition**: Collecting, analyzing, and storing logs from systems and applications.
+- **Purpose**:
+  - Detect security breaches.
+  - Maintain compliance.
+- **Best Practices**:
+  - Centralized log storage.
+  - Regular monitoring and analysis.
+
+---
+
+#### **7. Malware Handling and Vulnerability Management**
+- **Malware Handling**:
+  - Steps: Detection, containment, eradication, recovery.
+  - Tools: Antivirus, sandboxing.
+- **Vulnerability Management**:
+  - Process: Identify, evaluate, and remediate system vulnerabilities.
+  - Tools: Nessus, Qualys.
+
+---
+
+#### **8. Specifying and Enforcing Security Policies**
+- **Components of Security Policies**:
+  - Acceptable use policy.
+  - Password management policy.
+  - Incident response policy.
+- **Enforcement**:
+  - Regular training and audits.
+  - Automated tools to monitor compliance.
+
+---
+
+#### **9. Information Security Audit and Principles of Audit**
+- **Definition**: Systematic evaluation of security measures to ensure compliance and effectiveness.
+- **Principles**:
+  - Independence of auditors.
+  - Evidence-based assessments.
+  - Risk-oriented approach.
+
+---
+
+#### **10. Information Security Standards and Compliance**
+- **ISO 17799**:
+  - Focus: Information security management systems.
+  - Components: Security policy, asset management, access control, cryptography.
+- **PCI DSS (Payment Card Industry Data Security Standard)**:
+  - Ensures secure handling of credit card information.
+  - Requirements: Encryption, secure networks, vulnerability management.
+- **Legal and Ethical Issues**:
+  - Compliance with cyber laws.
+  - Ethical handling of user data.
+
+---
+
+### **20 Questions with Answers**
+
+1. **Q**: What is security risk management?  
+   **A**: The process of identifying, assessing, and mitigating risks to secure systems.
+
+2. **Q**: Name the three phases of the OCTAVE approach.  
+   **A**: Identify assets/threats, assess vulnerabilities, develop protection strategies.
+
+3. **Q**: What is COBIT?  
+   **A**: A framework for IT governance and management.
+
+4. **Q**: What is the primary function of a firewall?  
+   **A**: To block unauthorized access and permit authorized communication.
+
+5. **Q**: What is an IPS?  
+   **A**: Intrusion Prevention System, which blocks detected threats.
+
+6. **Q**: Name a common wireless security technique.  
+   **A**: WPA3 encryption.
+
+7. **Q**: What is the difference between DAC and MAC?  
+   **A**: DAC allows user discretion, while MAC enforces system-defined policies.
+
+8. **Q**: What is RBAC?  
+   **A**: Role-Based Access Control, granting access based on user roles.
+
+9. **Q**: What is the purpose of log management?  
+   **A**: To detect breaches and maintain compliance.
+
+10. **Q**: Name two tools used for vulnerability management.  
+    **A**: Nessus and Qualys.
+
+11. **Q**: What are the key components of a security policy?  
+    **A**: Acceptable use, password management, and incident response policies.
+
+12. **Q**: Define an information security audit.  
+    **A**: Systematic evaluation of security measures.
+
+13. **Q**: What is the ISO 17799 standard?  
+    **A**: A standard for information security management systems.
+
+14. **Q**: What is PCI DSS?  
+    **A**: A standard for secure handling of credit card information.
+
+15. **Q**: What does vulnerability management involve?  
+    **A**: Identifying, evaluating, and remediating vulnerabilities.
+
+16. **Q**: Name a principle of auditing.  
+    **A**: Independence of auditors.
+
+17. **Q**: What is lattice-based security?  
+    **A**: A model enforcing access based on mathematical frameworks.
+
+18. **Q**: What is the role of IDS?  
+    **A**: To detect potential security breaches.
+
+19. **Q**: What is the function of malware handling?  
+    **A**: Detecting, containing, and eradicating malicious software.
+
+20. **Q**: Why is encryption important in PCI DSS compliance?  
+    **A**: It ensures the secure handling of sensitive cardholder information.
+
