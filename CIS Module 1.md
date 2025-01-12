@@ -159,7 +159,3 @@
 18. Explain the importance of redundancy and load balancing in ensuring availability.
 19. What are internet standards, and why are they necessary for cybersecurity?
 20. Compare and contrast policies, mechanisms, and assurance in the context of internetwork security.
-
----
-
-This detailed summary provides comprehensive coverage of the module. Let me know if you’d like further expansion on any specific topic or question!
