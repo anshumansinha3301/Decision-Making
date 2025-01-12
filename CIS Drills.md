@@ -498,3 +498,161 @@
 
 20. **Q**: Define sabotage in cybersecurity.  
     **A**: Deliberate destruction of systems or data.
+
+
+# **Module III: Cybersecurity and Legal Frameworks**
+
+---
+
+#### **1. Security Engineering**
+- **Security Threat Management**: 
+  - Identifying, assessing, and mitigating threats.
+  - Tools: Firewalls, intrusion detection systems, encryption.
+- **Risk Assessment**:
+  - Steps: Identify assets → Assess vulnerabilities → Analyze threats → Determine risk levels → Implement mitigation strategies.
+
+#### **2. Cyber Forensics**
+- **Introduction to Cyber Forensics**:
+  - Science of collecting, analyzing, and preserving digital evidence for legal proceedings.
+  - Tools: FTK (Forensic Toolkit), EnCase.
+- **Evaluation of Crime Scene**:
+  - Identify compromised systems and sources of evidence.
+  - Secure and preserve evidence to maintain the chain of custody.
+- **Evidence Collection**:
+  - Types: Logs, hard drives, emails, network traffic.
+  - Best Practices: Prevent tampering, document processes.
+
+#### **3. Security Policies**
+- **Definition**: Formalized rules to ensure system security.
+- **Components**:
+  - Access control.
+  - Data classification.
+  - Incident response protocols.
+- **Risk Management**:
+  - Ongoing process to minimize risks.
+  - Includes risk analysis, mitigation plans, and contingency planning.
+- **Procedures and Guidelines**:
+  - Clear steps to implement security measures.
+  - Regular updates to address new threats.
+
+#### **4. Cyber Laws**
+- **Advantages**:
+  - Protects intellectual property.
+  - Regulates online activities.
+  - Ensures consumer protection.
+- **Cyber Lawyers**:
+  - Specialists in cybercrime cases, data privacy, and digital contracts.
+- **Jurisdiction and Sovereignty**:
+  - Issues arise due to cross-border nature of cybercrimes.
+  - Harmonization of laws needed globally.
+
+#### **5. The IT Act of India 2000**
+- **Purpose**:
+  - Legal recognition of electronic transactions.
+  - Defines cybercrimes and prescribes penalties.
+- **Key Provisions**:
+  - Section 43: Penalty for unauthorized access.
+  - Section 66: Punishment for hacking.
+  - Section 72: Breach of confidentiality and privacy.
+
+#### **6. Intellectual Property Rights (IPR)**
+- **Definition**: Legal rights protecting creations of the mind.
+- **Types**:
+  - Patents: Protect inventions.
+  - Copyright: Protects literary and artistic works.
+  - Trademarks: Protects brand identity.
+
+#### **7. Ownership and Enforcement of IPR**
+- **Ownership**:
+  - Creator or assignee holds rights.
+  - Joint ownership possible in collaborative works.
+- **Enforcement**:
+  - Filing lawsuits against infringers.
+  - Use of technological measures like DRM (Digital Rights Management).
+
+#### **8. Defenses for Infringement**
+- Fair use.
+- Lack of substantial similarity.
+- Independent creation.
+
+#### **9. Copyright**
+- **Objective**: Encourage creativity by protecting original works.
+- **Transfer of Copyright**:
+  - Rights can be assigned or licensed to others.
+- **Practical Aspect of Licensing**:
+  - Terms define scope, duration, and royalties.
+
+#### **10. Copyright in Digital Media**
+- Challenges:
+  - Easy replication of digital works.
+  - Global accessibility complicates enforcement.
+
+#### **11. Patents in the Cyber World**
+- Protects software algorithms, processes, and technical solutions.
+- Issues:
+  - Determining patentability.
+  - Balancing innovation with monopoly concerns.
+
+---
+
+### **20 Questions with Answers**
+
+1. **Q**: What is the purpose of security engineering?  
+   **A**: To design and implement systems that prevent, detect, and mitigate security threats.
+
+2. **Q**: What are the steps of risk assessment?  
+   **A**: Identify assets, assess vulnerabilities, analyze threats, determine risk levels, implement mitigation.
+
+3. **Q**: Define cyber forensics.  
+   **A**: The process of collecting, analyzing, and preserving digital evidence for legal use.
+
+4. **Q**: What is the chain of custody?  
+   **A**: A process ensuring evidence integrity by documenting its handling.
+
+5. **Q**: Name a tool used in cyber forensics.  
+   **A**: EnCase.
+
+6. **Q**: What is the IT Act of India 2000?  
+   **A**: A law providing legal recognition for electronic transactions and prescribing cybercrime penalties.
+
+7. **Q**: What does Section 66 of the IT Act deal with?  
+   **A**: Punishment for hacking.
+
+8. **Q**: What are intellectual property rights (IPR)?  
+   **A**: Legal rights protecting creations of the mind.
+
+9. **Q**: Name two types of IPR.  
+   **A**: Patents and copyrights.
+
+10. **Q**: What is copyright?  
+    **A**: A legal right protecting original works of authorship.
+
+11. **Q**: What is the objective of copyright?  
+    **A**: To encourage creativity by safeguarding creators' rights.
+
+12. **Q**: Define fair use.  
+    **A**: A defense allowing limited use of copyrighted material without permission.
+
+13. **Q**: What is DRM?  
+    **A**: Digital Rights Management, technology to prevent unauthorized use of digital content.
+
+14. **Q**: What are the key challenges of copyright in digital media?  
+    **A**: Easy replication and global accessibility of works.
+
+15. **Q**: What does security policy address?  
+    **A**: Rules and measures for safeguarding information and systems.
+
+16. **Q**: What is jurisdiction in cyber laws?  
+    **A**: Authority of a legal body to govern over cybercrimes in a region.
+
+17. **Q**: What is a practical aspect of licensing?  
+    **A**: Defining the terms of use, royalties, and duration for licensed work.
+
+18. **Q**: What is a patent in the cyber world?  
+    **A**: Protection for software algorithms and technical processes.
+
+19. **Q**: How can IPR be enforced?  
+    **A**: Filing lawsuits and using technological measures like DRM.
+
+20. **Q**: What does risk management involve?  
+    **A**: Identifying, assessing, and mitigating risks to minimize impact.
