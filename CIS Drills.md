@@ -1020,3 +1020,67 @@
 20. **Q**: Why is encryption important in PCI DSS compliance?  
     **A**: It ensures the secure handling of sensitive cardholder information.
 
+
+# **Top 5 Important Subjective Questions and Answers**
+
+---
+
+#### **1. Explain the significance of risk assessment in security management. (Module V)**  
+**Answer**:  
+Risk assessment identifies potential threats, evaluates vulnerabilities, and determines the impact of risks on organizational assets. It guides mitigation strategies, ensuring proactive defenses, minimizing security breaches, and maintaining business continuity. This process aligns security measures with organizational goals and compliance requirements.
+
+---
+
+#### **2. What is cryptography, and why is it important in cybersecurity? (Module IV)**  
+**Answer**:  
+Cryptography secures communication by converting plaintext into unreadable ciphertext using encryption algorithms. It ensures confidentiality, integrity, authentication, and non-repudiation. Cryptography underpins secure protocols like HTTPS and VPNs, safeguarding sensitive data from unauthorized access and cyber threats in modern digital systems.
+
+---
+
+#### **3. Discuss the role of firewalls in network security management. (Module V)**  
+**Answer**:  
+Firewalls filter incoming and outgoing network traffic based on predefined rules. They prevent unauthorized access, block malicious data packets, and secure systems from external threats. Firewalls are a primary defense mechanism in network security, ensuring controlled and secure communication.
+
+---
+
+#### **4. What are the differences between symmetric and asymmetric cryptography? (Module IV)**  
+**Answer**:  
+Symmetric cryptography uses a single shared key for encryption and decryption, making it fast but less secure for large systems. Asymmetric cryptography employs public-private key pairs, enhancing security but with higher computational complexity, suitable for secure communications and digital signatures.
+
+---
+
+#### **5. How does the IT Act 2000 contribute to cybersecurity in India? (Module III)**  
+**Answer**:  
+The IT Act 2000 establishes legal recognition for electronic transactions, combating cybercrime. It addresses data protection, identity theft, hacking, and digital fraud, providing a framework for penalizing cybercriminals and ensuring safe online environments for individuals and businesses in India.
+
+# **Top 5 Additional Subjective Questions and Answers**
+
+---
+
+#### **1. What is the role of hash functions in message authentication? (Module IV)**  
+**Answer**:  
+Hash functions generate fixed-size digests from input data, ensuring integrity by detecting unauthorized modifications. In message authentication, hash functions validate data by comparing generated hashes with expected values, preventing tampering during data transmission.
+
+---
+
+#### **2. Explain the concept of phishing and its impact on cybersecurity. (Module II)**  
+**Answer**:  
+Phishing is a social engineering attack where attackers trick users into revealing sensitive information through fake emails or websites. It compromises personal and financial data, leading to identity theft, financial losses, and reputational damage for individuals and organizations.
+
+---
+
+#### **3. What is intellectual property theft, and how does it affect businesses? (Module III)**  
+**Answer**:  
+Intellectual property theft involves unauthorized use or reproduction of protected ideas, designs, or trademarks. It disrupts business innovation, causes financial losses, undermines competitive advantage, and damages brand reputation, necessitating stringent IPR enforcement.
+
+---
+
+#### **4. Describe the role of digital signatures in ensuring data security. (Module IV)**  
+**Answer**:  
+Digital signatures verify the authenticity and integrity of electronic documents using cryptographic techniques. They ensure the sender's identity and prevent tampering, supporting secure online communications, legal transactions, and compliance with digital security standards.
+
+---
+
+#### **5. What is the importance of information security audits? (Module V)**  
+**Answer**:  
+Information security audits systematically evaluate an organization's security measures. They identify vulnerabilities, ensure compliance with standards, and provide actionable insights for improving defenses, ensuring data protection and resilience against cyber threats.
