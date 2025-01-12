@@ -1,5 +1,5 @@
 
-### **1. Introduction to Information, Computer, and Network Security**
+# **1. Introduction to Information, Computer, and Network Security**
 
 #### **a. Information Security**
 - Focuses on safeguarding information assets from unauthorized access, misuse, disclosure, destruction, or alteration.
@@ -329,7 +329,7 @@
 
 
 
-## **Module II: Cybersecurity Threats**
+# **Module II: Cybersecurity Threats**
 
 #### **1. Sources of Security Threats**
 - **Internal Sources**: Disgruntled employees, insiders with malicious intent, or negligence.
