@@ -326,3 +326,175 @@
   - **Mechanisms**: Tools used to implement policies (e.g., firewalls).  
   - **Assurance**: Confidence that policies and mechanisms are effective.  
     Example: Testing firewalls for compliance ensures assurance.
+
+
+
+## **Module II: Cybersecurity Threats**
+
+#### **1. Sources of Security Threats**
+- **Internal Sources**: Disgruntled employees, insiders with malicious intent, or negligence.
+- **External Sources**: Hackers, organized cybercriminals, terrorist groups, and state-sponsored entities.
+
+#### **2. Motives**
+- **Financial Gain**: Fraud, theft, ransomware attacks.
+- **Revenge**: Disgruntled individuals causing harm.
+- **Ideological**: Hacktivism or promoting political/religious causes.
+- **Espionage**: Stealing trade secrets or intelligence.
+
+#### **3. Target Assets**
+- **Personal Data**: Social security numbers, financial records.
+- **Intellectual Property**: Trade secrets, patents.
+- **Infrastructure**: Networks, servers, industrial systems.
+
+#### **4. Consequences of Threats**
+- **Financial Loss**: Direct theft or costs from breaches.
+- **Reputational Damage**: Loss of trust and clients.
+- **Operational Disruption**: System outages and downtime.
+
+#### **5. Email Threats**
+- **Phishing**: Deceptive emails trick users into sharing sensitive information.
+- **Spoofing**: Emails appear to come from trusted sources.
+- **Malware**: Attachments or links containing malicious code.
+
+#### **6. Web Threats**
+- **Drive-by Downloads**: Malware downloaded without user consent.
+- **Cross-Site Scripting (XSS)**: Attackers inject malicious scripts into websites.
+- **Man-in-the-Middle Attacks**: Eavesdropping or altering data in transit.
+
+#### **7. Hacking**
+- **Black Hat Hackers**: Malicious intent, steal or damage.
+- **White Hat Hackers**: Ethical hackers securing systems.
+- **Gray Hat Hackers**: In between, may break the law but not maliciously.
+
+#### **8. Intruders and Insider Threats**
+- **Intruders**: Unauthorized users accessing systems.
+- **Insiders**: Employees or partners misusing access.
+
+#### **9. Cyber Squatting**
+- Registering domain names resembling trademarks to profit by selling them.
+
+#### **10. Cyber Stalking**
+- Persistent online harassment or intimidation.
+
+#### **11. Crime of Deception**
+- Using digital channels to deceive and defraud, e.g., phishing, identity theft.
+
+#### **12. Content-Oriented Online Crime**
+- Hosting illegal or harmful content, like child pornography or hate speech.
+
+#### **13. Malicious Software (Malware)**
+- Types: Viruses, worms, trojans, ransomware.
+- Detection Tools: Antivirus software, intrusion detection systems.
+
+#### **14. Cyber Terrorism**
+- Using technology to cause fear or disrupt society for political gains.
+
+#### **15. Information Warfare and Surveillance**
+- **Information Warfare**: Propaganda and misinformation campaigns.
+- **Surveillance**: Unauthorized monitoring of individuals or organizations.
+
+#### **16. Virtual Crime**
+- Crimes in virtual environments like gaming or virtual reality platforms.
+
+#### **17. Online Frauds**
+- Scams involving online shopping, auctions, or payment systems.
+
+#### **18. Identity Theft**
+- Stealing someone's identity to commit fraud or access resources.
+
+#### **19. Intellectual Property Theft**
+- Stealing copyrighted material, patents, or trademarks.
+
+#### **20. Network Threats**
+- **Worms**: Self-replicating malware spreading through networks.
+- **Viruses**: Infect files and spread via user actions.
+- **Spam**: Unsolicited emails or messages.
+- **Adware/Spyware**: Collect data or display ads.
+
+#### **21. Trojans and Covert Channels**
+- **Trojans**: Disguised as legitimate software to execute malicious actions.
+- **Covert Channels**: Hidden communication pathways.
+
+#### **22. Backdoors and Bots**
+- **Backdoors**: Secret access points in software for unauthorized access.
+- **Bots**: Automated programs for malicious tasks.
+
+#### **23. IP Spoofing and ARP Spoofing**
+- **IP Spoofing**: Pretending to be a trusted IP to access systems.
+- **ARP Spoofing**: Faking ARP messages to intercept network traffic.
+
+#### **24. Session Hijacking**
+- Taking control of a user session to access resources.
+
+#### **25. Sabotage**
+- Deliberately destroying or damaging systems or data.
+
+#### **26. Phishing**
+- Deceptive techniques to steal credentials or sensitive data.
+
+#### **27. Zombie/Zombie Drone**
+- Compromised systems remotely controlled for attacks like DDoS.
+
+---
+
+### **20 Questions with Answers**
+
+1. **Q**: What is the main motive behind phishing attacks?  
+   **A**: To steal sensitive information like credentials or financial data.
+
+2. **Q**: Name two types of malware.  
+   **A**: Worms and Trojans.
+
+3. **Q**: What does ARP spoofing target?  
+   **A**: Address Resolution Protocol (ARP) tables.
+
+4. **Q**: Define cyber squatting.  
+   **A**: Registering domains similar to trademarks for profit.
+
+5. **Q**: What is a covert channel?  
+   **A**: A hidden communication pathway.
+
+6. **Q**: How do hackers use zombies?  
+   **A**: To execute DDoS attacks.
+
+7. **Q**: What is the difference between viruses and worms?  
+   **A**: Viruses require user action; worms self-replicate automatically.
+
+8. **Q**: What is cyber terrorism?  
+   **A**: Using technology to instill fear or disrupt society.
+
+9. **Q**: Name a tool for malware detection.  
+   **A**: Antivirus software.
+
+10. **Q**: What is a backdoor?  
+    **A**: A hidden entry point for unauthorized access.
+
+11. **Q**: What is the key risk of insider threats?  
+    **A**: Misuse of authorized access.
+
+12. **Q**: Define information warfare.  
+    **A**: Propaganda and misinformation campaigns using technology.
+
+13. **Q**: What is identity theft?  
+    **A**: Stealing someone's personal information for fraud.
+
+14. **Q**: How is adware harmful?  
+    **A**: Displays unwanted ads and collects user data.
+
+15. **Q**: What does session hijacking exploit?  
+    **A**: Active user sessions.
+
+16. **Q**: Define phishing.  
+    **A**: A deceptive attempt to steal sensitive information.
+
+17. **Q**: What is IP spoofing?  
+    **A**: Faking an IP address to impersonate another system.
+
+18. **Q**: What is the goal of cyber stalking?  
+    **A**: Harass or intimidate someone online.
+
+19. **Q**: What does spam usually contain?  
+    **A**: Unsolicited or fraudulent messages.
+
+20. **Q**: Define sabotage in cybersecurity.  
+    **A**: Deliberate destruction of systems or data.
