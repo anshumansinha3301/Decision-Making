@@ -656,3 +656,184 @@
 
 20. **Q**: What does risk management involve?  
     **A**: Identifying, assessing, and mitigating risks to minimize impact.
+
+
+# **Module IV: Advanced Security and Cryptography**
+---
+#### **1. Introduction to Cryptography**
+- **Definition**: The practice of securing communication by transforming information into unreadable formats.
+- **Types**:
+  - **Symmetric Cryptography**: Single key for encryption and decryption.
+  - **Asymmetric Cryptography**: Uses public and private key pairs.
+- **Applications**: Data confidentiality, authentication, and integrity.
+
+---
+
+#### **2. E-Commerce Security**
+- **Key Aspects**:
+  - **Confidentiality**: Protecting user data.
+  - **Integrity**: Ensuring transaction data isn’t altered.
+  - **Authentication**: Verifying user identity.
+  - **Non-repudiation**: Ensuring transactions cannot be denied.
+- **Tools**:
+  - SSL/TLS for secure connections.
+  - Two-factor authentication (2FA).
+
+---
+
+#### **3. Message Authentication and Hash Functions**
+- **Message Authentication**: Validates the authenticity of a message.
+  - Uses Message Authentication Codes (MACs) or digital signatures.
+- **Hash Functions**:
+  - Converts input data into fixed-length hash values.
+  - Properties: Deterministic, fast, collision-resistant.
+- **Examples**:
+  - MD5, SHA-256.
+- **Message Digests**: Output of a hash function, ensuring data integrity.
+
+---
+
+#### **4. Number Theory for Information Security**
+- **Prime Numbers**: Foundation of cryptographic algorithms.
+- **Modular Arithmetic**: Used in encryption/decryption.
+- **Applications**:
+  - RSA encryption.
+  - Diffie-Hellman key exchange.
+
+---
+
+#### **5. Public Key Algorithms and Infrastructure (PKI)**
+- **Public Key Algorithms**:
+  - Examples: RSA, ECC (Elliptic Curve Cryptography).
+  - Used for secure communication and digital signatures.
+- **Public Key Infrastructure (PKI)**:
+  - System for managing digital certificates.
+  - Components: Certification Authority (CA), Registration Authority (RA).
+- **Applications**:
+  - Secure emails, SSL/TLS, code signing.
+
+---
+
+#### **6. Cryptographic Protocols**
+- **Purpose**: Secure communication by defining how cryptographic algorithms are applied.
+- **Examples**:
+  - SSL/TLS: Secure web communication.
+  - IPSec: Secure network communication.
+
+---
+
+#### **7. Digital Signature**
+- **Definition**: Electronic signature ensuring authenticity and integrity.
+- **Steps**:
+  - Hashing the message.
+  - Encrypting the hash with the sender’s private key.
+- **Applications**:
+  - Document signing, legal contracts, software distribution.
+
+---
+
+#### **8. Digital Watermarking and Steganography**
+- **Digital Watermarking**:
+  - Embedding information into digital media to assert ownership.
+  - Applications: Copyright protection.
+- **Steganography**:
+  - Hiding messages within digital files.
+  - Difference from cryptography: Focus on concealment, not transformation.
+
+---
+
+#### **9. Biometric Security**
+- **Definition**: Using unique biological traits for authentication.
+- **Examples**:
+  - Fingerprint scanning.
+  - Iris recognition.
+  - Voice recognition.
+- **Advantages**: High security, difficult to replicate.
+- **Challenges**: Privacy concerns, false positives/negatives.
+
+---
+
+#### **10. Encryption**
+- **Definition**: Transforming plaintext into ciphertext to secure data.
+- **Symmetric Key Encryption**:
+  - Single key for both encryption and decryption.
+  - Faster but less secure for large systems.
+- **Data Encryption Standard (DES)**:
+  - Symmetric encryption algorithm.
+  - Features: 56-bit key, replaced by more secure algorithms (e.g., AES).
+
+---
+
+#### **11. Kerberos**
+- **Definition**: Network authentication protocol using secret-key cryptography.
+- **How it Works**:
+  - Authenticates clients and servers via a trusted third party.
+- **Components**:
+  - Key Distribution Center (KDC), Ticket Granting Server (TGS).
+- **Applications**:
+  - Secure login systems, single sign-on (SSO).
+
+---
+
+### **20 Questions with Answers**
+
+1. **Q**: What is cryptography?  
+   **A**: The practice of securing communication by encrypting information.
+
+2. **Q**: Name two types of cryptography.  
+   **A**: Symmetric and Asymmetric Cryptography.
+
+3. **Q**: What is a hash function?  
+   **A**: A function that converts input data into a fixed-length hash value.
+
+4. **Q**: Give an example of a symmetric encryption algorithm.  
+   **A**: Data Encryption Standard (DES).
+
+5. **Q**: What is the role of a Certification Authority in PKI?  
+   **A**: It issues and manages digital certificates.
+
+6. **Q**: Define modular arithmetic in cryptography.  
+   **A**: Arithmetic system for integers where numbers wrap around upon reaching a modulus.
+
+7. **Q**: What is SSL/TLS used for?  
+   **A**: Securing web communications.
+
+8. **Q**: What does a digital signature ensure?  
+   **A**: Authenticity and integrity of a message.
+
+9. **Q**: How does steganography differ from cryptography?  
+   **A**: Steganography hides information; cryptography encrypts it.
+
+10. **Q**: What is the key size of DES?  
+    **A**: 56 bits.
+
+11. **Q**: What is biometric security?  
+    **A**: Authentication using unique biological traits.
+
+12. **Q**: Name a common biometric security method.  
+    **A**: Fingerprint recognition.
+
+13. **Q**: What is the function of Kerberos?  
+    **A**: To authenticate users in a secure manner within a network.
+
+14. **Q**: What is a message digest?  
+    **A**: The output of a hash function.
+
+15. **Q**: Name a public key algorithm.  
+    **A**: RSA.
+
+16. **Q**: What is digital watermarking used for?  
+    **A**: Asserting ownership of digital content.
+
+17. **Q**: Define e-commerce security.  
+    **A**: Measures ensuring confidentiality, integrity, and authentication in online transactions.
+
+18. **Q**: What is PKI?  
+    **A**: Public Key Infrastructure, a system for managing digital certificates.
+
+19. **Q**: What are the steps in creating a digital signature?  
+    **A**: Hash the message and encrypt it with the private key.
+
+20. **Q**: What is the purpose of a hash function in encryption?  
+    **A**: To verify data integrity.
+
